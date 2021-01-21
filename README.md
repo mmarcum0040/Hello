@@ -1,2 +1,12 @@
-# Hello
-First assignment for web design
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title></title>
+    </head>
+    <body>
+        <h1>Hello World!</h1>
+        <p>This is a paragraph</p>
+        <p>Changes!</p>     
+    </body>
+</html>
